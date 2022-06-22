@@ -9,7 +9,7 @@
 <body>
     ini contoh tampilan file batu di GIT
     <ol>
-        <li>Maulian Saputa</li>
+        <li>Putri Nur Idawati</li>
     </ol>
 </body>
 </html>
